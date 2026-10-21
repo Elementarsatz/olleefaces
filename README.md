@@ -18,3 +18,6 @@ As in the example, it uses long hold of buttons L and A. It now has
 | Triple tap | toggles on/off |
 
 enjoy.
+
+<img width="319" height="309" alt="image" src="https://github.com/user-attachments/assets/5a7f5793-6bfd-4dd9-86ad-f7ca94e0ae49" />
+
