@@ -10,8 +10,8 @@ As in the example, it uses long hold of buttons L and A. It now has
 
 | Input | Event |
 | ----- | ----- |
-| short L | bpm mode: increases by 1, option mode: changes time signature |
-| short A | bpm mode: decreases by 1, option mode: changes subdivision |
+| short L | bpm mode: increases by 1, option mode: changes time signature (cycles between 0 (no strong beat) and 7) |
+| short A | bpm mode: decreases by 1, option mode: changes subdivision (cycles between 1 (no subdivision) and 4)|
 | long L | bpm mode: increases faster, option mode: - |
 | long A | bpm mode: decreases faster, option mode: -  |
 | L + A | toggles option mode/bpm mode |
